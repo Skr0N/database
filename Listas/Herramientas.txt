@@ -1,0 +1,11 @@
+{
+    "data": [
+      {
+        "nombre": "Infinite Yield",
+        "fecha": "23/5/2022",
+        "descarga": "https://tgxgang.xyz/scripts/InfiniteYield",
+        "tutorial": "https://tgxgang.xyz/scripts/InfiniteYield",
+        "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186796400209930/unknown.png",
+        "descripcion": "Te permite ejecutar muchisimos comandos, como fly, etc!"
+}    ]
+  }
