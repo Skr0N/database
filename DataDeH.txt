@@ -7,12 +7,5 @@
         "descarga": "https://tgxgang.xyz/scripts/InfiniteYield",
         "tutorial": "https://tgxgang.xyz/scripts/InfiniteYield",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978492947798577162/unknown.png"
-},{
-  "nombre": "qwrqrw",
-  "descripcion": "",
-  "fecha": " - 23/5/2022",
-  "descarga": "",
-  "tutorial": "",
-  "mini": ""
 }    ]
   }
