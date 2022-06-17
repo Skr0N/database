@@ -14,5 +14,12 @@
   "descarga": "Inyecta tus dlls de manera eficiente, con esto!",
   "tutorial": "No hay jajajaj",
   "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978514858716839946/unknown.png"
+},{
+  "nombre": "Aimbot",
+  "descripcion": "Aimbot interno para todo roblox!",
+  "fecha": "Utilidad - 17/6/2022",
+  "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/987268478341894184/Aimbot.rar",
+  "tutorial": "",
+  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/987268617877999616/unknown.png"
 }    ]
   }
