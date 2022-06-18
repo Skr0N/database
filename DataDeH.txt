@@ -1,20 +1,6 @@
 {
     "data": [
       {
-        "nombre": "FPS Unlocker",
-        "descripcion": "Obten el mejor rendimiento usando esto!",
-        "fecha": "23/5/2022",
-        "descarga": "https://tgxgang.xyz/scripts/InfiniteYield",
-        "tutorial": "https://tgxgang.xyz/scripts/InfiniteYield",
-        "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978492947798577162/unknown.png"
-},{
-  "nombre": "Extreme Injector",
-  "descripcion": "Inyecta tus dlls de manera eficiente, con esto!",
-  "fecha": "Solucion - 23/5/2022",
-  "descarga": "Inyecta tus dlls de manera eficiente, con esto!",
-  "tutorial": "No hay jajajaj",
-  "mini": "https://cdn.discordapp.com/attachments/963223210218893392/978514858716839946/unknown.png"
-},{
   "nombre": "Aimbot",
   "descripcion": "Aimbot interno para todo roblox!",
   "fecha": "Utilidad - 17/6/2022",
