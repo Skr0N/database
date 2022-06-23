@@ -11,7 +11,7 @@
   "nombre": "Solucionador de Roblox",
   "descripcion": "Arregla este error: \"you're running a unsupported version roblox.\"",
   "fecha": "Solucion - 18/6/2022",
-  "descarga": "https://github.com/TG609/Utilidades/raw/main/Soluciones/Roblox%20Fixer.exe",
+  "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/989631416864231424/Roblox_Fixer.exe",
   "tutorial": "https://youtu.be/F-fF7c1nrzk",
   "mini": "https://media.discordapp.net/attachments/963223210218893392/987799503522377798/unknown.png"
 }    ]
